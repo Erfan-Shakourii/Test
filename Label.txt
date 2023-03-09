@@ -1,0 +1,3 @@
+x = ['nand_m', 'nand_s','nor_m', 'nor_s','psnand_m', 'psnand_s',
+     'hnand_m', 'hnand_s','hnand_nor_m', 'hnand_nor_s']
+y = [37.66, 40.9, 36, 51.47, 37.66, 37.21, 19.72, 48.82, 40.16, 42.9, 31, 34.57]
